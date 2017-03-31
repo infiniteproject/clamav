@@ -1,5 +1,5 @@
 FROM alpine:edge
-LABEL maintainer "infiniteproject@gmail.com"
+LABEL maintainer "sysadmin@kronostechnologies.com"
 
 ENV MAX_SIZE 256M 
 
